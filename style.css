@@ -50,9 +50,9 @@ button{
     border: none;
     outline: none;
 padding: 16px 50px;
-/* background: #ff5945; */
+background: #ff5945;
 /* background: rgb(255, 20, 147); */
-background: crimson;
+/* background: crimson; */
 cursor: pointer;
 color: white ;
 border-radius: 40px;
