@@ -7,7 +7,6 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    /* background: linear-gradient(135deg, #153677, #4e085f); */
     background: linear-gradient(135deg, rgb(144, 221, 238),  #4e085f);
     padding: 10px;
 }
@@ -51,8 +50,6 @@ button{
     outline: none;
 padding: 16px 50px;
 background: #ff5945;
-/* background: rgb(255, 20, 147); */
-/* background: crimson; */
 cursor: pointer;
 color: white ;
 border-radius: 40px;
@@ -88,7 +85,7 @@ background-image: url(images/checked.png);
 ul li span{
     position: absolute;
     right: 0;
-    top: 5px;
+    top: 6px;
     width: 40px;
     height: 40px;
     font-size: 22px;
